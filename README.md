@@ -1,6 +1,7 @@
 ## Hi there 👋
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Axfline&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Axfline/Axfline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

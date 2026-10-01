@@ -59,13 +59,6 @@ file-менеджментом и потихоньку углубляюсь в э
 
 <br/>
 
-<img src="https://img.shields.io/badge/HTML5-62618e?style=for-the-badge&logo=html5&logoColor=e8e7f2&labelColor=15141f" />
-<img src="https://img.shields.io/badge/CSS3-62618e?style=for-the-badge&logo=css3&logoColor=e8e7f2&labelColor=15141f" />
-<img src="https://img.shields.io/badge/JavaScript-62618e?style=for-the-badge&logo=javascript&logoColor=e8e7f2&labelColor=15141f" />
-<img src="https://img.shields.io/badge/Python-62618e?style=for-the-badge&logo=python&logoColor=e8e7f2&labelColor=15141f" />
-<img src="https://img.shields.io/badge/Git-62618e?style=for-the-badge&logo=git&logoColor=e8e7f2&labelColor=15141f" />
-<img src="https://img.shields.io/badge/GitHub-62618e?style=for-the-badge&logo=github&logoColor=e8e7f2&labelColor=15141f" />
-
 </div>
 
 ---
